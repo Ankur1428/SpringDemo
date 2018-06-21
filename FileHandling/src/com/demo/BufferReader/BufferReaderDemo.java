@@ -16,5 +16,7 @@ public static void main(String[] args) throws IOException {
 		line = br.readLine();
 	}
 	br.close();
+	
+	System.out.println("new line added");
 }
 }
